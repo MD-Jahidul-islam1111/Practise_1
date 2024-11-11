@@ -1,0 +1,53 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+} 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.f_color{
+    color: rgb(70, 70, 238) !important;
+}
+
+.f_size{
+
+    font-size: 16px !important;
+
+
+}
+
+
+
+
+.hero_bg {
+    background-color: #d8e7f4;
+    
+}
+
+
+
+
+footer {
+    width: 100vw; 
+    max-width: 100%; 
+    position: relative;
+    left: 0;
+    right: 0;
+    background-color: #f8f9fa; 
+    padding: 20px 0; }
+
+
+.container-full {
+    width: 100%;
+    padding: 0; 
+}
+
+
+
+
